@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "craftable_saddle_backport",
+  "version": "1.0",
+  "name": "Craftable Saddle Backport",
+  "description": "Backport of the Minecraft saddle crafting recipe to older versions.",
+  "authors": [
+    "Vartan"
+  ],
+  "contact": {
+    "sources": "https://www.youtube.com/shorts/YonaAev9hug"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "1.20.1"
+  }
+}

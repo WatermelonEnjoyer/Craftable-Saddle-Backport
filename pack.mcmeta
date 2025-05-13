@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Backport of the Minecraft saddle crafting recipe to older versions."
+    }
+}
